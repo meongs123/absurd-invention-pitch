@@ -11,8 +11,8 @@ holds exactly the sentence and nothing else.
 import os
 
 SENTENCE = (
-    "A telephone that answers every spam call itself and keeps the caller "
-    "talking for hours, so telemarketers spend their day pitching to a phone."
+    "A telephone that answers every spam call itself and tries to sell the "
+    "caller a timeshare, so telemarketers spend their day being sold to by a phone."
 )
 
 

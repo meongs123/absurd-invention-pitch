@@ -11,11 +11,11 @@ annoyance.
 
 ## The sentence
 
-> A telephone that answers every spam call itself and keeps the caller talking for hours, so telemarketers spend their day pitching to a phone.
+> A telephone that answers every spam call itself and tries to sell the caller a timeshare, so telemarketers spend their day being sold to by a phone.
 
 The angle is the spam call: instead of blocking telemarketers, the telephone
-answers them itself and keeps them talking, so the telemarketer wastes the
-afternoon pitching to a phone that will never buy anything. The laugh comes
+answers them itself and tries to sell the caller a timeshare, so the
+telemarketer spends the day being sold to by a phone. The laugh comes
 from the invention itself — the phone becomes the telemarketer's telemarketer.
 
 ## How it runs
@@ -29,7 +29,7 @@ python3 main.py
 ```
 
 Two runs produce byte-identical output: the same sentence, every time.
-Verified locally: 141 characters, one sentence, valid UTF-8.
+Verified locally: 148 characters, one sentence, valid UTF-8.
 
 ---
 
